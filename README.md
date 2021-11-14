@@ -1,7 +1,7 @@
 cs344
 =====
 
-Introduction to Parallel Programming class code: https://github.com/userr2232/cs344.git
+Introduction to Parallel Programming class code: https://classroom.udacity.com/courses/cs344
 
 # Building on OS X
 
